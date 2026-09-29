@@ -88,7 +88,7 @@ Digite o texto e o idioma de destino quando solicitado. A tradução será exibi
 
 Para realizar traduções, é necessário possuir uma chave da API da OpenAI com créditos disponíveis. O consumo da API pode gerar custos.
 
-## Apoio de IA
+#### Apoio de IA
 
 A interface do projeto, construída com Streamlit e personalizada com
 HTML, CSS e JavaScript, foi desenvolvida com apoio de inteligência
